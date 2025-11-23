@@ -3244,7 +3244,6 @@ b.corp.google.com
 b42mt0jrxf.com
 badad.googleplex.com
 bard.google.com
-baseline.google.com
 bc-in-f129.1e100.net
 beacons-handoff.gcp.gvt2.com
 beacons.gcp.gvt2.com
@@ -4223,7 +4222,6 @@ r3---sn-poqvn5u-jb36.gvt1.com
 r3---sn-pouxgn8t51-jx36.gvt1.com
 r3---sn-q4flrnee.c.docs.google.com
 r3---sn-q5u5bgv02-3c26.gvt1.com
-r3.sn-2uuxa3vh-cuie.gvt1.com
 r3.sn-h5576n7k.c.drive.google.com
 r3.sn-hp57yn7r.c.drive.google.com
 r3.sn-hufvjvgx-coxe.gvt1.com
@@ -6485,7 +6483,6 @@ android-cdn-client.fitbit.com
 android-cdn-softclient.fitbit.com
 android-client.fitbit.com
 android-softclient.fitbit.com
-api-lb.fitbit.com
 api-pro.fitbit.com
 api.fitbit.com
 app.plus.fitbit.com
