@@ -3244,7 +3244,6 @@ b.corp.google.com
 b42mt0jrxf.com
 badad.googleplex.com
 bard.google.com
-baseline.google.com
 bc-in-f129.1e100.net
 beacons-handoff.gcp.gvt2.com
 beacons.gcp.gvt2.com
@@ -3850,7 +3849,6 @@ labs.google
 landing.google.com
 landspeeder.corp.google.com
 latitude.google.com
-lax31s01-in-f8.1e100.net
 learndigital.withgoogle.com
 lens-pa.googleapis.com
 lens-storage.storage.googleapis.com
@@ -4063,7 +4061,6 @@ pc-in-f97.1e100.net
 peoplestack-pa.googleapis.com
 pf-in-f188.1e100.net
 pf-in-f81.1e100.net
-photobooth.flutter.dev
 photosdata-pa.googleapis.com
 phpjo3qe79.com
 picasa.com
@@ -4157,7 +4154,6 @@ r1---sn-x5guiapo3uxax-ow46.gvt1.com
 r1.sn-n3cgv5qc5oq-nf06.gvt1.com
 r1.sn-ug5on-5a5e.gvt1.com
 r1.sn-vgqskne6.gvt1.com
-r1.sn-vgqsrne6.gvt1.com
 r1.sn-vgqsrned.gvt1.com
 r1.sn-vgqsrnek.gvt1.com
 r1.sn-vgqsrnes.gvt1.com
@@ -4203,7 +4199,6 @@ r2.sn-p5qlsndk.gvt1.com
 r2.sn-po4voxu-uaal.gvt1.com
 r2.sn-vgqskne6.gvt1.com
 r2.sn-vgqskned.gvt1.com
-r2.sn-vgqsrne6.gvt1.com
 r2.sn-vgqsrnek.gvt1.com
 r3---sn-0opoxuui5pa5oq-c336.gvt1.com
 r3---sn-3pom-bh26.gvt1.com
@@ -4223,10 +4218,7 @@ r3---sn-poqvn5u-jb36.gvt1.com
 r3---sn-pouxgn8t51-jx36.gvt1.com
 r3---sn-q4flrnee.c.docs.google.com
 r3---sn-q5u5bgv02-3c26.gvt1.com
-r3.sn-2uuxa3vh-cuie.gvt1.com
 r3.sn-h5576n7k.c.drive.google.com
-r3.sn-hp57yn7r.c.drive.google.com
-r3.sn-hufvjvgx-coxe.gvt1.com
 r3.sn-ntqe6n76.gvt1.com
 r3.sn-oxupm-nv4l.gvt1.com
 r3.sn-qxau5-btql.gvt1.com
@@ -4235,7 +4227,6 @@ r3.sn-vgqsrned.gvt1.com
 r3.sn-vgqsrnek.gvt1.com
 r3.sn-vgqsrnes.gvt1.com
 r3.sn-vgqsrnll.gvt1.com
-r3.sn-x0n35auxa-cpve.gvt1.com
 r4---sn-0opoxuui5pa5oq-c336.gvt1.com
 r4---sn-5fo-c336.gvt1.com
 r4---sn-8p8v-bg06.gvt1.com
@@ -4349,7 +4340,6 @@ rpts.org
 rqivwhxgjq.com
 rr1---sn-8vq54voxn25po-h5qee.gvt1.com
 rr3---sn-8vq54voxn25po-h5qee.gvt1.com
-rr3---sn-i5heen7d.gvt1.com
 rr6---sn-8vq54voxn25po-h5qz.gvt1.com
 rr8---sn-8vq54voxn25po-h5qz.gvt1.com
 rsbkf27yrw.com
@@ -6485,7 +6475,6 @@ android-cdn-client.fitbit.com
 android-cdn-softclient.fitbit.com
 android-client.fitbit.com
 android-softclient.fitbit.com
-api-lb.fitbit.com
 api-pro.fitbit.com
 api.fitbit.com
 app.plus.fitbit.com
@@ -6620,7 +6609,6 @@ outbound-proxy-webhooks-usc1-1-glob.fitbit.com
 outbound-proxy-webhooks-usc1-2-glob.fitbit.com
 pages.e.fitbit.com
 pages.fitbit.com
-partners.fitbit.com
 pkiv3.fitbit.com
 plus.fitbit.com
 proxy-webhooks-usc1-0-glob.fitbit.com
